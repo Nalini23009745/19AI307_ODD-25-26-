@@ -27,8 +27,8 @@ To write a Java program that demonstrates the concept of Class and Object using 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: POOJASRI L
-RegisterNumber:212223220076
+Developed by: Nalini P
+RegisterNumber:212223220063
 */
 ```
 
